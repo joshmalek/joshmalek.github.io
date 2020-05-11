@@ -1,9 +1,14 @@
-## Portfolio
+
 
 ---
 
-### Category Name 1
+### About Me
 
+
+### Experience
+<img src="images/group.jpg?raw=true"/>
+
+### Projects
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
