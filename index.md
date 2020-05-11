@@ -1,36 +1,13 @@
 ## About Me
 
----
 
 ### Experience
 <img src="images/group.jpg?raw=true"/>
 
 ### Projects
-[Project 1 Title](/sample_page)
+
+######[Discord Server Relay](https://github.com/joshmalek/discord-relay)
+<img src="images/discord.png?raw=true"/>
+
+######[Steam Trade Bot](https://github.com/joshmalek/Steam-Trade-Bot)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<!-- Remove above link if you don't want to attibute -->
