@@ -1,9 +1,6 @@
-
+## About Me
 
 ---
-
-### About Me
-
 
 ### Experience
 <img src="images/group.jpg?raw=true"/>
