@@ -3,6 +3,8 @@ My name is Josh Malek, and I am a Computer Science major at Rensselaer Polytechn
 
 For my professional career, I love working with new and exciting technologies, and developing for the future.  I am currently looking for employment to start after I graduate, so feel free to contact me!  I am excited for what the future holds, and hope I can play a part in creating it.
 
+[My Resume](/pdf/MalekJoshResume.pdf)
+
 ### Projects
 
 #### [cookbook.js](https://github.com/joshmalek/cookbook)
