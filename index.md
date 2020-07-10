@@ -19,7 +19,7 @@ The mobile side of our platform is built with Flutter, allowing for easy exports
 #### [Chrome Extension](https://github.com/joshmalek/donatio-extension)
 The Chrome extension allows our users to directly hook into their Amazon checkout page, and use the Amazon Pay credentials they already have to donate easily.
 
-#### [Website](https://github.com/joshmalek/donatio-site)
+#### [Website](https://github.com/joshmalek/donatio-website)
 The website routes all the external traffic from our Chrome extension, as well as providing a place for new users to check out our product, and see how it works.
 
 ----
