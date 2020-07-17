@@ -8,7 +8,7 @@ For my professional career, I love working with new and exciting technologies, a
 ## Projects
 
 {:refdef: style="text-align: center;"}
-![Logo](/images/logo192.png?raw=true)
+![Logo](/images/logo192.png?raw=true){width="36px"}
 {: refdef}
 
 
