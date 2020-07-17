@@ -7,9 +7,8 @@ For my professional career, I love working with new and exciting technologies, a
 
 ## Projects
 
-{:refdef: style="text-align: center;"}
 ![Logo](https://github.com/joshmalek/joshmalek.github.io/blob/master/images/logo192.png)
-{: refdef}
+
 ![Header](https://github.com/joshmalek/joshmalek.github.io/blob/master/images/DONATIO-header.png)
 
 A suite of products all created under the Donatio moniker, this project was built as part of the AWS Buildathon 2020 in partnership with [Abdul-Muiz Yusuff](https://github.com/sacrael). Donatio is a gamefied platform designed to piggyback on top of current online shopping pages. A user can choose to donate a percentage of their online purchase (e.g. Amazon) to the Nonprofit of the Day. Our solution uses Amazon Pay for the donation, and the user recieves experience and medals for their donation. They can share their donations on Twitter, and compete with their friends on the Leaderboard. The project consists of four subprojects, consisting the backend, a Chrome extension, a Mobile app built in Flutter & Dart, and a full website.  I have broken down the details of each subproject below.
